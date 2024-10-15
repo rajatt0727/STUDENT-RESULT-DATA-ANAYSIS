@@ -13,4 +13,3 @@ The **Academic Result Dashboard** offers a comprehensive solution by aggregating
 - **Top Scorers**: Visualize and track the top-performing students to encourage excellence and improve rankings.
 - **Comprehensive Filters**: Slicers for branches, semesters, and centers enable detailed, tailored insights.
 - **Key Metrics**: Cards provide quick access to the total number of students, distinct exam centers, and the count of top-ranked students.
-```
